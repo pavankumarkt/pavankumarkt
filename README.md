@@ -42,13 +42,12 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+
 </div>
 <br/>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </div>
@@ -61,26 +60,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h3>📈 EDA using Python</h3>
-      <p>Performed Exploratory Data Analysis on real-world datasets using Python, Pandas, NumPy, and Matplotlib to uncover insights through visualization, statistical analysis, and data preprocessing.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🛣️ Road Health Monitoring & Pothole Detection</h3>
-      <p>Developed a web application for reporting and managing road damage with complaint tracking, location management, and an interactive dashboard using React, FastAPI, and SQLite.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🐄 Cow Database Management System</h3>
-      <p>Built a MERN stack web application to manage cattle information including health records, vaccination schedules, breeding history, and secure data storage.</p>
-    </td>
-  </tr>
-</table>
-
----
 
 ### 📊 GitHub Statistics
 
@@ -95,13 +74,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pavankumar2503-sys&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-  </a>
-</div>
 
 ---
 
@@ -113,16 +86,6 @@
 
 ---
 
-### 🐍 Contribution Snake Animation
-
-<div align="center">
-  <!-- Note: Make sure to set up the GitHub Action for the Contribution Snake in your repository for this image to render properly! -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavankumar2503-sys/pavankumar2503-sys/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pavankumar2503-sys/pavankumar2503-sys/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/pavankumar2503-sys/pavankumar2503-sys/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 ---
 
