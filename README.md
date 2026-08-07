@@ -28,10 +28,8 @@
 
 - 🎓 **BE Computer Science Engineering Student**
 - 🐍 Learning **Python, SQL, Data Analytics, and Machine Learning**
-- 📊 Passionate about **Exploratory Data Analysis (EDA)**
-- 💻 Interested in **Full Stack Development**
-- 🌱 Currently building **Python projects**
-- 🎯 Goal: Become a **Data Analyst and Software Engineer**
+- 🎯 Aiming to improve **my coding skills for internships and competitive programming**
+
 
 ---
 
