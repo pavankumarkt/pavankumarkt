@@ -64,12 +64,12 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavankumar2503-sys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumar2503-sys&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pavankumarkt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumarkt&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%" alt="Top Languages" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavankumar2503-sys&theme=tokyonight&hide_border=true&background=1a1b27" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavankumarkt&theme=tokyonight&hide_border=true&background=1a1b27" width="49%" alt="GitHub Streak" />
 </div>
 
 ---
@@ -81,7 +81,7 @@
 ### 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavankumar2503-sys&theme=tokyo-night&bg_color=1a1b27&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavankumarkt&theme=tokyo-night&bg_color=1a1b27&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
