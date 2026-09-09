@@ -80,9 +80,8 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavankumarkt&theme=tokyo-night&bg_color=1a1b27&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavankumarkt&theme=tokyo-night&hide_border=true&bg_color=1a1b27" />
 </p>
-
 ---
 
 
