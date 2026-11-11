@@ -27,7 +27,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **BE Computer Science Engineering Student**
-- 🐍 Learning **Python, SQL, Data Analytics, and Machine Learning**
+- 🐍 Learning **Python, SQL, Django ,Data Analytics, and Machine Learning**
 - 🎯 Aiming to improve **my coding skills for internships and competitive programming**
 
 
